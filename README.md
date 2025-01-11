@@ -1,26 +1,18 @@
-# Linear Regression from Scratch
+# Linear Regression
 
 This project implements a simple linear regression model using gradient descent from scratch in Python. The implementation includes batch gradient descent, stochastic gradient descent, and mini-batch gradient descent.
 
 ## Dataset
 
-- Predictor Variable: `./linearX.csv`
-- Response Variable: `./linearY.csv`
+- Predictor Variable/Independent: `./linearX.csv`
+- Response Variable/Dependent: `./linearY.csv`
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
-
-## Installation
-
-Install the required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib
-```
 
 ## Usage
 
